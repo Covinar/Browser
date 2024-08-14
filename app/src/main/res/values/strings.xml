@@ -1,3 +1,15 @@
 <resources>
+
     <string name="app_name">BrowserCompose</string>
+    <string name="browser_top_bar_title_hint">Enter URL</string>
+    <string name="settings_dialog_title">Settings</string>
+    <string name="settings_dialog_button1">Clear cache</string>
+    <string name="settings_dialog_button2">About</string>
+    <string name="settings_dialog_button3">Cancel</string>
+    <string name="about_screen_title">About</string>
+    <string name="about_screen_top_bat_action">Close</string>
+    <string name="mudita">MUDITA</string>
+    <string name="not_available_page_title">Webpage not available</string>
+    <string name="not_available_page_description">The webpage at %s could not be loaded.</string>
+
 </resources>
